@@ -1,0 +1,1 @@
+START "" "C:UDK\UDK-2013-09\Binaries\Win32\UDK" practiceMaze.udk?game=mymod.FeelSpaceGame
