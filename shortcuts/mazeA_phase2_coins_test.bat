@@ -1,1 +1,0 @@
-START "" "C:UDK\UDK-2013-09\Binaries\Win32\UDK" c:\UDK\UDK-2013-09\UDKGame\Content\Maps\FSB_Spring_2015\mazeA_phase2_coins.udk?game=mymod.FeelSpaceGame
